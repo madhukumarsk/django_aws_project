@@ -81,6 +81,8 @@ DATABASES = {
         'PASSWORD': 'newpassword',
         'HOST': 'localhost',
         'PORT': '5432',
+        ALLOWED_HOSTS = ['13.53.192.218', 'localhost', '127.0.0.1']
+
     }
 }
 
