@@ -81,6 +81,10 @@ DATABASES = {
         'PASSWORD': 'newpassword',
         'HOST': 'localhost',
         'PORT': '5432',
+<<<<<<< HEAD
+=======
+        
+>>>>>>> 1ba6d5e5 (code send to github)
 
     }
 }
